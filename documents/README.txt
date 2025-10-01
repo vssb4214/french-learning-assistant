@@ -10,10 +10,10 @@ Movie transcripts are copyrighted material. Instead, use:
 ## Expected Files
 Place your legally obtained documents here with these naming patterns:
 
-📚 Literature:
+Literature:
 - le_petit_prince.pdf (or .txt)
 
-🎬 Films (use summaries/analyses, NOT full transcripts):
+Films (use summaries/analyses, NOT full transcripts):
 - coco_avant_chanel_summary.txt
 - la_mome_analysis.txt  
 - cyrano_notes.txt
