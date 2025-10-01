@@ -1,0 +1,27 @@
+{
+  "unknown": {
+    "title": "Joyeux Noël (2005) _ Christian Caron",
+    "file_path": "Info for French/Joyeux Noël (2005) _ Christian Caron.pdf",
+    "chunk_count": 22
+  },
+  "coco_avant_chanel": {
+    "title": "Coco avant Chanel",
+    "file_path": "Info for French/Coco avant Chanel.pdf",
+    "chunk_count": 23
+  },
+  "cyrano": {
+    "title": "Cyrano de Bergerac",
+    "file_path": "Info for French/Cyrano de Bergerac (1990) _ Jean-Paul Rappenau.pdf",
+    "chunk_count": 38
+  },
+  "la_vie_en_rose": {
+    "title": "La Môme / La vie en rose",
+    "file_path": "Info for French/_La Môme _ La vie en rose (2007) _ Olivier Dahan.pdf",
+    "chunk_count": 56
+  },
+  "petit_prince": {
+    "title": "Le Petit Prince",
+    "file_path": "Info for French/LE PETIT PRINCE.pdf",
+    "chunk_count": 67
+  }
+}
