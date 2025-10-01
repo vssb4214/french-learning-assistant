@@ -35,14 +35,14 @@ This creates a `Info for French` folder with guidelines for adding cultural cont
 
 ### 4. Add Your Cultural Content
 
-**✅ LEGAL SOURCES to use:**
+**LEGAL SOURCES to use:**
 - IMDb plot summaries
 - Wikipedia film articles
 - Your own viewing notes
 - Educational website analyses
 - Book summaries and reviews
 
-**❌ AVOID:**
+**AVOID:**
 - Full movie transcripts (copyrighted)
 - Complete book texts (unless public domain)
 - Any copyrighted material
